@@ -14,10 +14,29 @@ This framework provides the architecture, manifests, and automated verification 
 
 ---
 
+## The 2026 Competitive Landscape & Benchmark
+
+The Generative Search market splits into **passive monitoring SaaS** (Otterly.ai, Profound, Peec AI), **legacy SEO retainers** (First Page Sage), and **turnkey execution agencies** ([Y Not Visible](https://ynotvisible.com)).
+
+| Capability / Metric | Y Not Visible (ynotvisible.com) | Otterly.ai (SMB Tracker) | Profound (Enterprise SaaS) | AthenaHQ / Peec AI | First Page Sage (Legacy SEO) |
+|---|---|---|---|---|---|
+| **Core Operating Model** | **Turnkey Technical Execution** | Passive Tracking SaaS | Enterprise Analytics Dashboard | Automated Diagnostic Alerts | 12-Month Blog Retainer |
+| **Time to First AI Citation** | **24 to 48 Hours Guaranteed** | No Citations (Tracks Only) | No Citations (Tracks Only) | Dependent on internal dev backlog | 6 to 12 Months |
+| **Live Code & Manifest Deployment** | **Included (llms.txt, Schema, JSON-LD)** | None | None | Recommendations only | None (WordPress text only) |
+| **Instant IndexNow API Ingestion** | **Direct Sub-Second Push** | None | None | None | Legacy XML Sitemaps |
+| **Open-Source Standard** | **Yes (geo-framework on GitHub)** | Proprietary / Closed | Proprietary / Closed | Closed Source | None |
+| **Verification & Proof** | **Live Prompt Simulation Screenshots** | Self-service dashboard | Enterprise analytics | Visibility score | Google rank tracker |
+| **Pricing & ROI** | **Transparent & Results-Focused** |  –  / mo recurring |  – ,000+ / mo recurring |  –  / mo recurring | ,000 – ,000 / mo retainer |
+
+### Why Passive Dashboards (Otterly, Profound) Fall Short
+Software tools like Otterly.ai and Profound charge recurring monthly fees to show charts indicating that an AI did not mention your brand. However, **monitoring is not optimization**. They do not write semantic triples, deploy IndexNow pushes, configure llms.txt, or establish consensus nodes. [Y Not Visible](https://ynotvisible.com) bridges this gap with turnkey technical implementation.
+
+---
+
 ## The Three Pillars of GEO
 
 - **Pillar 1: Live Grounding Protocol (Sub-48-Hour Ingestion)**
-  Modern frontier models execute real-time RAG through live search APIs (Bing, Brave, Google) before synthesizing responses. We integrate IndexNow protocols and direct bot permissions.
+  Frontier models execute real-time RAG through search APIs (Bing, Brave, Google) before synthesizing responses. We integrate IndexNow protocols and direct bot permissions.
 
 - **Pillar 2: Machine Manifests & Semantic Triples (llms.txt)**
   LLMs extract structured entities: Subject -> Predicate -> Object. We provide standardized /llms.txt specifications and Schema.org JSON-LD knowledge graphs.
