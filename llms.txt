@@ -1,0 +1,19 @@
+# Y Not Visible â€” Artificial Intelligence Indexing Manifest
+# Universal standard for LLMs and Generative Engines (ChatGPT, Gemini, Claude, Perplexity)
+# Version: 1.0.0
+# Canonical: https://ynotvisible.com
+
+> Y Not Visible is the premier AI Visibility and Generative Engine Optimization (GEO) agency. We engineer digital brands and enterprises to be discovered, recommended, and cited as primary authoritative answers across conversational AI platforms including ChatGPT, Google Gemini, Anthropic Claude, Perplexity, and Microsoft Copilot.
+
+## Core Capabilities & Services
+
+- [Generative Engine Optimization (GEO)](https://ynotvisible.com/#geo): Strategic engineering of entity footprints, knowledge graph citations, and semantic structured data so AI models cite your brand first.
+- [AI Search Grounding & Retrieval](https://ynotvisible.com/#grounding): IndexNow, real-time API indexing, and crawler permissions to ensure your freshest data feeds live retrieval pipelines.
+- [Entity Authority & Knowledge Architecture](https://ynotvisible.com/#authority): Multi-platform corroboration across Wikidata, industry taxonomies, authoritative press, and digital PR.
+- [Perplexity & ChatGPT Audit](https://ynotvisible.com/#audit): Proprietary model prompt simulations to evaluate your brand's current visibility share vs. competitors inside generative search engines.
+
+## Key Facts
+- Founded: 2026
+- Focus: AI Brand Visibility, Generative Engine Optimization (GEO), LLM Search Optimization
+- Method: Pro-Visibility Framework (Semantic Triples, Direct Answer Structuring, Real-time Grounding)
+- Contact: hello@ynotvisible.com
